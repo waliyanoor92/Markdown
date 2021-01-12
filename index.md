@@ -1,0 +1,26 @@
+** This is bold **
+-- Test --
+
+- [x] This is Task 1
+- [ ] This is Task 2
+- [ ] This is Task 3
+
+
+_italic_
+
+** _italic_**
+
+
+In the owrds of the author:
+> Pardon my mess
+
+Use `git status` to list all new or modified files
+
+```
+git status
+git add
+git remote
+```
+
+
+This site was build using GiTHub pages [GitHubpages](https://pages.github.com/)
