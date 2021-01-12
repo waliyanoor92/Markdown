@@ -24,3 +24,14 @@ git remote
 
 
 This site was build using GiTHub pages [GitHubpages](https://pages.github.com/)
+
+
+[Contributing guidelines](contributing.md)
+
+- James Dean
+- Bob Marley
+- Carlos Marquez
+
+1. first line
+2. Second line
+3. Third line
