@@ -34,4 +34,44 @@ This site was build using GiTHub pages [GitHubpages](https://pages.github.com/)
 
 1. first line
 2. Second line
-3. Third line
+3. Third line.
+
+- [ ] Turn on Github pages
+- [ ] Outline my Github
+
+
+
+:+1: 
+
+
+| First Header  | Second Header |
+|---------------| ------------- |
+| `Content cell`|  Git Status   |
+
+
+
+```
+function test () {
+  console.log("notice the blank line")
+  }
+```
+
+```ruby
+require 'redcarpet`
+markdown = Redcarpet.new("hello world")
+puts markdown.to_html
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
